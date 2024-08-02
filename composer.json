@@ -1,0 +1,13 @@
+{
+    "require": {
+        "htmlburger/carbon-fields-plugin": "^3.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    },
+    "require-dev": {
+        "php-stubs/woocommerce-stubs": "^9.1"
+    }
+}
