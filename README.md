@@ -5,7 +5,7 @@ to a customer who has completed an order with WooCommerce. It will automatically
 
 # How to install
 
-Best and easiest solution is to simply install via the WP plugin interface. If you want to download manually, either download the ZIP file and decompress in your `wp-content/plugins` folder,
+Best and easiest solution is to simply install via the WP plugin interface (Soon™). If you want to download manually, either download the ZIP file and decompress in your `wp-content/plugins` folder,
 or clone it directly in that same directory with `git clone`. You will need to have [composer](https://getcomposer.org/download/) installed in order to download all the dependencies in the
 `composer.lock` file. After that, simply go to the WP back end UI, and activate the plugin there.
 
